@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redmine.API", "Redmine.API\Redmine.API.csproj", "{FF9EF9AA-27EB-4494-88CB-83BE411B6BFE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0242490A-4CB1-46E5-AD5C-B87B8B4C854B} = {0242490A-4CB1-46E5-AD5C-B87B8B4C854B}
+		{0EA6CB77-E0BB-4C7E-99D0-011932F8A348} = {0EA6CB77-E0BB-4C7E-99D0-011932F8A348}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redmine.Business", "Redmine.Business\Redmine.Business.csproj", "{0242490A-4CB1-46E5-AD5C-B87B8B4C854B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redmine.DAL", "Redmine.Dal\Redmine.DAL.csproj", "{973619A9-D09D-4016-BE58-65B5A8380D24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redmine.DTO", "Redmine.DTO\Redmine.DTO.csproj", "{0EA6CB77-E0BB-4C7E-99D0-011932F8A348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redmine.Entity", "Redmine.Entity\Redmine.Entity.csproj", "{5B2C5588-9FD3-420E-A6ED-F3C0C935460E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF9EF9AA-27EB-4494-88CB-83BE411B6BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9EF9AA-27EB-4494-88CB-83BE411B6BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9EF9AA-27EB-4494-88CB-83BE411B6BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9EF9AA-27EB-4494-88CB-83BE411B6BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0242490A-4CB1-46E5-AD5C-B87B8B4C854B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0242490A-4CB1-46E5-AD5C-B87B8B4C854B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0242490A-4CB1-46E5-AD5C-B87B8B4C854B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0242490A-4CB1-46E5-AD5C-B87B8B4C854B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973619A9-D09D-4016-BE58-65B5A8380D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973619A9-D09D-4016-BE58-65B5A8380D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973619A9-D09D-4016-BE58-65B5A8380D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973619A9-D09D-4016-BE58-65B5A8380D24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA6CB77-E0BB-4C7E-99D0-011932F8A348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA6CB77-E0BB-4C7E-99D0-011932F8A348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA6CB77-E0BB-4C7E-99D0-011932F8A348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA6CB77-E0BB-4C7E-99D0-011932F8A348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2C5588-9FD3-420E-A6ED-F3C0C935460E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2C5588-9FD3-420E-A6ED-F3C0C935460E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2C5588-9FD3-420E-A6ED-F3C0C935460E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2C5588-9FD3-420E-A6ED-F3C0C935460E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF69359-6108-460B-9007-39C004D641A2}
+	EndGlobalSection
+EndGlobal

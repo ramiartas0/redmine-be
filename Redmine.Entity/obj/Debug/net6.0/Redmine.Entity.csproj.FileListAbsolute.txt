@@ -1,0 +1,14 @@
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\bin\Debug\net6.0\Redmine.Entity.deps.json
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\bin\Debug\net6.0\Redmine.Entity.dll
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\bin\Debug\net6.0\Redmine.Entity.pdb
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\obj\Debug\net6.0\Redmine.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\obj\Debug\net6.0\Redmine.Entity.AssemblyInfoInputs.cache
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\obj\Debug\net6.0\Redmine.Entity.AssemblyInfo.cs
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\obj\Debug\net6.0\Redmine.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\obj\Debug\net6.0\Redmine.Entity.dll
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\obj\Debug\net6.0\refint\Redmine.Entity.dll
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\obj\Debug\net6.0\Redmine.Entity.pdb
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\obj\Debug\net6.0\ref\Redmine.Entity.dll
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\obj\Debug\net6.0\Redmine.Entity.csproj.AssemblyReference.cache
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\bin\Debug\net6.0\Redmine.Entity.runtimeconfig.json
+C:\Users\ramia\source\repos\redmine-be\Redmine.Entity\obj\Debug\net6.0\Redmine.Entity.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Redmine.API.props" />
+</Project>

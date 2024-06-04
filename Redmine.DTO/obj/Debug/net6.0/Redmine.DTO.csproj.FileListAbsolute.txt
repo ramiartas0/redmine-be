@@ -1,0 +1,17 @@
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\bin\Debug\net6.0\Redmine.DTO.deps.json
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\bin\Debug\net6.0\Redmine.DTO.dll
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\bin\Debug\net6.0\Redmine.DTO.pdb
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\obj\Debug\net6.0\Redmine.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\obj\Debug\net6.0\Redmine.DTO.AssemblyInfoInputs.cache
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\obj\Debug\net6.0\Redmine.DTO.AssemblyInfo.cs
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\obj\Debug\net6.0\Redmine.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\obj\Debug\net6.0\Redmine.DTO.dll
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\obj\Debug\net6.0\refint\Redmine.DTO.dll
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\obj\Debug\net6.0\Redmine.DTO.pdb
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\obj\Debug\net6.0\ref\Redmine.DTO.dll
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\obj\Debug\net6.0\Redmine.DTO.csproj.AssemblyReference.cache
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\bin\Debug\net6.0\Redmine.Entity.dll
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\bin\Debug\net6.0\Redmine.Entity.pdb
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\obj\Debug\net6.0\Redmine.DTO.csproj.CopyComplete
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\bin\Debug\net6.0\Redmine.DTO.runtimeconfig.json
+C:\Users\ramia\source\repos\redmine-be\Redmine.DTO\obj\Debug\net6.0\Redmine.DTO.genruntimeconfig.cache

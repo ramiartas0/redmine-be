@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "xzLL/oNEWISSgAW+BWyhXm+RXmHh42PrhhZ0yaX/bDE=",
+  "Source": "Redmine.API",
+  "BasePath": "_content/Redmine.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Redmine.API\\wwwroot",
+      "Source": "Redmine.API",
+      "ContentRoot": "C:\\Users\\ramia\\source\\repos\\redmine-be\\Redmine.API\\wwwroot\\",
+      "BasePath": "_content/Redmine.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
