@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+ï»¿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
@@ -16,17 +16,16 @@ var str = builder.Configuration.GetConnectionString("LocalDb");
 builder.Services.AddDbContext<ApiContext>(
     c => c.UseSqlServer(builder.Configuration.GetConnectionString("LocalDb")));
 
-// Add services to the container.
+
+// Container'a servisleri ekliyoruz.
 builder.Services.AddScoped<IUserDal, EfUserDal>();
 builder.Services.AddScoped<IUserService, UserManager>();
 
-//builder.Services.AddScoped<IPermissionDal, EfPermissionDal>();
-//builder.Services.AddScoped<IPermissionService, PermissionManager>();
 
 builder.Services.AddCors(options =>
     options.AddPolicy("SpesificOrigins", policy =>
-    policy.WithOrigins("http://localhost:19006",
-    "https://time-off-tracker-api-4a95404d0134.herokuapp.com") //Kendi hostunuzu yazýnýz.
+    policy.WithOrigins("http://localhost:3000",
+    "http://localhost:3000") //Kendi hostunuzu yazÄ±nÄ±z
     .AllowAnyHeader()
     .AllowAnyMethod()
     )
@@ -60,7 +59,7 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Redmine Backend API Pinsoft", Version = "V1.0.0" });
 
-    // Yetkilendirme seçeneklerini belirtin
+    // Yetkilendirme seÃ§eneklerini belirtin
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
         Description = "JWT Authorization header using the Bearer scheme.",
