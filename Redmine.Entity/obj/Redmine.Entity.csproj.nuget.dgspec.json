@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramia\\source\\repos\\redmine-be\\Redmine.Entity\\Redmine.Entity.csproj": {}
+    "C:\\Users\\ramia\\Desktop\\redmine-be\\Redmine.Entity\\Redmine.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramia\\source\\repos\\redmine-be\\Redmine.Entity\\Redmine.Entity.csproj": {
+    "C:\\Users\\ramia\\Desktop\\redmine-be\\Redmine.Entity\\Redmine.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramia\\source\\repos\\redmine-be\\Redmine.Entity\\Redmine.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\ramia\\Desktop\\redmine-be\\Redmine.Entity\\Redmine.Entity.csproj",
         "projectName": "Redmine.Entity",
-        "projectPath": "C:\\Users\\ramia\\source\\repos\\redmine-be\\Redmine.Entity\\Redmine.Entity.csproj",
+        "projectPath": "C:\\Users\\ramia\\Desktop\\redmine-be\\Redmine.Entity\\Redmine.Entity.csproj",
         "packagesPath": "C:\\Users\\ramia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramia\\source\\repos\\redmine-be\\Redmine.Entity\\obj\\",
+        "outputPath": "C:\\Users\\ramia\\Desktop\\redmine-be\\Redmine.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ramia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

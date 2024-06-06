@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zOwe7S7FcSdrnj0lRIq3JXOo2aPtj/VfvuOJWpwTo4w11LvJrtV9HcaVqKgr1Lu2H2gv3Q1UK7ZTOtmA+SBoaw==",
+  "dgSpecHash": "jmRFHlNEsVc1kdXTY7O7jDQbAB5J+Sg3VDqkC3y1q87TvhCEpLULnWDwXuP6A6mZIOt3XHy54rTkOQ0cV/dqYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramia\\source\\repos\\redmine-be\\Redmine.API\\Redmine.API.csproj",
+  "projectFilePath": "C:\\Users\\ramia\\Desktop\\redmine-be\\Redmine.API\\Redmine.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ramia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ramia\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
